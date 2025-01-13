@@ -23,7 +23,7 @@ The **Chaos Art Generator** is an interactive visualization tool that brings mat
    ```
 3. Install the dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit matplotlib numpy
    ```
 4. Run the application:
    ```bash
